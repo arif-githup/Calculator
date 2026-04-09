@@ -4,4 +4,6 @@ class Calculator
 	{
 		
 	}
-}
+	static init penambahan(int a, int b){
+		return a + b;
+	}
